@@ -1,0 +1,15 @@
+.head{
+    color: red;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
+body{
+    background-color: #eee;
+}
+h5{
+    color: red;
+}
+.text{
+    color: blue;
+}

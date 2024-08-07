@@ -1,0 +1,1 @@
+window.confirm("are you happy");
